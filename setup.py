@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/immmdreza/werewolf",
     project_urls={
-        "Bug Tracker": "hhttps://github.com/immmdreza/werewolf/issues",
+        "Bug Tracker": "https://github.com/immmdreza/werewolf/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
