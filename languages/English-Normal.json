@@ -1,0 +1,12 @@
+{
+    "name": "English Normal",
+    "identifier": "en-normal",
+    "texts": { 
+        "joinButton" : "Join",
+        "voteMessage": "Who do you want to lynch?", 
+        "dayStarted": "It is now day time.",
+        "nightStarted": "Night has fallen.",
+        "newPlayerList": "Players Alive: \\d/\\d",
+        "gameFinished": "Game Length: \\d\\d:\\d\\d:\\d\\d"
+    }
+}

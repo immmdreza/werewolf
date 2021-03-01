@@ -1,0 +1,4 @@
+*.session
+trash/
+.vscode/
+__pycache__/
